@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@200;300;400;900&family=Poppins&family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto',sans-serif;
+}
+
+.font-poppins{
+    font-family: 'Poppins',sans-serif;
+}
+
+.font-size-09{
+    font-size: 0.9em;
+}
